@@ -97,8 +97,8 @@ let newAll = word.replaceAll("alik", "salom");
 console.log(newAll);
 
 // Split()
-let newArr = word.split(',');
-
-
+let newArr = word.split(',')
 console.log(newArr);
+
+
 let arr = [{name: "Bobur"}, {name: "Daler"}, {name: "Amir"}];
